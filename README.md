@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Daljeet819
+- 👀 I’m interested in web development, blockchain technology, and open-source projects.
+- 🌱 I’m currently learning advanced React techniques and Ethereum smart contract integration.
+- 💞️ I’m looking to collaborate on decentralized applications (dApps) and innovative front-end projects.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love exploring new tech and sometimes dabble in creative coding challenges for fun!
